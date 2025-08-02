@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm oguzozdamar</h1>
-<h3 align="center">Web Developer with Python, Flask, and SQL | SEO & PowerShell Enthusiast based in Poland</h3>
+<h3 align="center">Web Developer with Python, Flask, and SQL | SEO Specialist based in Poland</h3>
 
 - 📫 How to reach me **oguzozdamar7@gmail.com**
 
